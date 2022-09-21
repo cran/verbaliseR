@@ -1,0 +1,15 @@
+30231a812024b25e28e54f3873bf08e0 *DESCRIPTION
+52ad3012b6bf6ae72516d4f2c6c185c2 *LICENSE
+ffcb5446ef9fb8c14748abd410cc1f9c *NAMESPACE
+58ec85846aa1bbeaa95ba1927bb98ab9 *R/listify.R
+293df01c6f100e38ff8695ab2ed8d31d *R/num_to_text.R
+ff2dd68be149d57d3448bc86c28c11ff *R/pluralise.R
+c88f90745dbd67cb7145e3e4fc3c742e *R/prettify_date.R
+51e065cd07f6ef5ccaf4bd75c86c9b3f *R/restore_capitals.R
+f760a5643cfa3e01a92df4c69ab525b9 *inst/figures/logo-social.png
+aa99162ef86b4c7c2e5ae39bc307d069 *inst/figures/logo.png
+b922488aa9f59a3e0659df258b2f46fe *man/listify.Rd
+ae3bc37225579ad73521203a8d0f3512 *man/num_to_text.Rd
+bc61b1d3e498de2b7f8dae392df08010 *man/pluralise.Rd
+c9f3b5b9863fc0eb2f319b725e5ecbbf *man/prettify_date.Rd
+8f43c956632b9c792ef313fdd9b986cf *man/restore_capitals.Rd
